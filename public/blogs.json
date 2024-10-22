@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ux9sLZgUAr_rk3hjYtTt8wRUEqkYHEUY_Q&s",
+      "title": "The Future of AI",
+      "author": "John Doe",
+      "author_img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+      "posted_date": "2024-10-01",
+      "reading_time": 8,
+      "hash_tags": ["#AI", "#Future", "#Tech"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/blog-header-design-template-d2b6dcc56c2e8eec710f3d840b31bdfa_screen.jpg?ts=1597240396",
+      "title": "Sustainable Living in Modern Cities",
+      "author": "Jane Smith",
+      "author_img": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
+      "posted_date": "2024-09-22",
+      "reading_time": 10,
+      "hash_tags": ["#Sustainability", "#Cities", "#Environment"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJQqNJG6B-aXQv2nAuy16LHEXe4wEyD6FOAwQB9QeJlwP-Aze6QHhSoOeBIOsJwRZ3JXW549IinE8xF3xrw3eTCBeMv8Epaj6VUvN-vXKMlBtOmmZJglaqVbPTs5cOifc0BQu5_hyzsIE/s1600/katherine+schmidt.jpg",
+      "title": "Blockchain Revolution",
+      "author": "Alice Johnson",
+      "author_img": "https://images.unsplash.com/photo-1554151228-14d9def656e4",
+      "posted_date": "2024-09-15",
+      "reading_time": 12,
+      "hash_tags": ["#Blockchain", "#Crypto", "#Innovation"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://marketplace.canva.com/EAFAs6po4S4/1/0/1600w/canva-brown-neutral-minimalist-web-design-blog-banner-NoU393qujqk.jpg",
+      "title": "Exploring the Metaverse",
+      "author": "Robert Lee",
+      "author_img": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe",
+      "posted_date": "2024-09-10",
+      "reading_time": 9,
+      "hash_tags": ["#Metaverse", "#VirtualReality", "#Tech"]
+    },
+    {
+      "id": 5,
+      "cover_img": "https://www.tailorbrands.com/wp-content/uploads/2021/06/Blog_logo_Header.jpeg",
+      "title": "Cybersecurity in the Digital Age",
+      "author": "Emily Davis",
+      "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+      "posted_date": "2024-09-05",
+      "reading_time": 7,
+      "hash_tags": ["#Cybersecurity", "#Privacy", "#Technology"]
+    },
+    {
+      "id": 6,
+      "cover_img": "https://marketplace.canva.com/EAFD7Hbfm3I/1/0/1600w/canva-brown-minimalist-helping-value-business-blog-banner-v4f4hVhTyQc.jpg",
+      "title": "Green Energy Innovations",
+      "author": "Michael Brown",
+      "author_img": "https://images.unsplash.com/photo-1511485977113-f34a3d0a31c2",
+      "posted_date": "2024-08-29",
+      "reading_time": 6,
+      "hash_tags": ["#GreenEnergy", "#Innovation", "#Sustainability"]
+    },
+    {
+      "id": 7,
+      "cover_img": "https://marketplace.canva.com/EAEcPz5qotw/3/0/1600w/canva-blog-banner-for-website-content-MqPNJu3HBz8.jpg",
+      "author": "Sarah Williams",
+      "author_img": "https://images.unsplash.com/photo-1541271696563-3be2f555fc4e",
+      "posted_date": "2024-08-18",
+      "reading_time": 15,
+      "hash_tags": ["#QuantumComputing", "#Tech", "#Future"]
+    },
+    {
+      "id": 8,
+      "cover_img": "https://www.schudio.com/wp-content/uploads/2024/08/school-website-blog-banner.png",
+      "title": "Smart Homes of Tomorrow",
+      "author": "David Clark",
+      "author_img": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+      "posted_date": "2024-08-11",
+      "reading_time": 8,
+      "hash_tags": ["#SmartHomes", "#IoT", "#FutureTech"]
+    },
+    {
+      "id": 9,
+      "cover_img": "https://imgv3.fotor.com/images/blog-cover-image/12-Practice-for-Creating-the-Best-Facebook-Cover-Photo.jpg",
+      "title": "Artificial Intelligence in Healthcare",
+      "author": "Laura Martinez",
+      "author_img": "https://images.unsplash.com/photo-1517365830460-955ce3ccd263",
+      "posted_date": "2024-07-30",
+      "reading_time": 11,
+      "hash_tags": ["#AI", "#Healthcare", "#Innovation"]
+    },
+    {
+      "id": 10,
+      "cover_img": "https://prezibase.com/wp-content/uploads/2022/10/fashion-freelancer-blog-image-template-1024x512.jpg",
+      "title": "The Evolution of 5G Networks",
+      "author": "Daniel Garcia",
+      "author_img": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126",
+      "posted_date": "2024-07-15",
+      "reading_time": 9,
+      "hash_tags": ["#5G", "#Networks", "#Technology"]
+    }
+  ]
+  
