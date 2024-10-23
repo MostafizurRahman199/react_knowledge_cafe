@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import Blog from "./Blog";
 
 export default function Blogs() {
   const [blogs, setBlogs] = useState([]);
@@ -13,5 +14,11 @@ export default function Blogs() {
     fetchBlogsData();
   }, []);
 
-  return <div>Blogs</div>;
+  return <div className="md:col-span-2 border-2 border-red-500">
+
+    {
+      blogs.map((blog)=><Blog key={blog.id} blog={blog}/>)
+    }
+  
+  </div>;
 }

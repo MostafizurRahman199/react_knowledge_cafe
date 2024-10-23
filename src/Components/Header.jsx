@@ -2,7 +2,8 @@ import React from 'react'
 
 export default function Header() {
   return (
-    <div className="navbar bg-base-100">
+
+     <div className="navbar bg-base-100">
     <div className="flex-1">
       <a className="btn btn-ghost text-xl">Knowledge Cafe</a>
     </div>
@@ -33,5 +34,6 @@ export default function Header() {
       </div>
     </div>
   </div>
+ 
   )
 }

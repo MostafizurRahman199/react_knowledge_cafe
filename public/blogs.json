@@ -1,102 +1,114 @@
+
 [
-    {
-      "id": 1,
-      "cover_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ux9sLZgUAr_rk3hjYtTt8wRUEqkYHEUY_Q&s",
-      "title": "The Future of AI",
-      "author": "John Doe",
-      "author_img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
-      "posted_date": "2024-10-01",
-      "reading_time": 8,
-      "hash_tags": ["#AI", "#Future", "#Tech"]
-    },
-    {
-      "id": 2,
-      "cover_img": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/blog-header-design-template-d2b6dcc56c2e8eec710f3d840b31bdfa_screen.jpg?ts=1597240396",
-      "title": "Sustainable Living in Modern Cities",
-      "author": "Jane Smith",
-      "author_img": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
-      "posted_date": "2024-09-22",
-      "reading_time": 10,
-      "hash_tags": ["#Sustainability", "#Cities", "#Environment"]
-    },
-    {
-      "id": 3,
-      "cover_img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJQqNJG6B-aXQv2nAuy16LHEXe4wEyD6FOAwQB9QeJlwP-Aze6QHhSoOeBIOsJwRZ3JXW549IinE8xF3xrw3eTCBeMv8Epaj6VUvN-vXKMlBtOmmZJglaqVbPTs5cOifc0BQu5_hyzsIE/s1600/katherine+schmidt.jpg",
-      "title": "Blockchain Revolution",
-      "author": "Alice Johnson",
-      "author_img": "https://images.unsplash.com/photo-1554151228-14d9def656e4",
-      "posted_date": "2024-09-15",
-      "reading_time": 12,
-      "hash_tags": ["#Blockchain", "#Crypto", "#Innovation"]
-    },
-    {
-      "id": 4,
-      "cover_img": "https://marketplace.canva.com/EAFAs6po4S4/1/0/1600w/canva-brown-neutral-minimalist-web-design-blog-banner-NoU393qujqk.jpg",
-      "title": "Exploring the Metaverse",
-      "author": "Robert Lee",
-      "author_img": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe",
-      "posted_date": "2024-09-10",
-      "reading_time": 9,
-      "hash_tags": ["#Metaverse", "#VirtualReality", "#Tech"]
-    },
-    {
-      "id": 5,
-      "cover_img": "https://www.tailorbrands.com/wp-content/uploads/2021/06/Blog_logo_Header.jpeg",
-      "title": "Cybersecurity in the Digital Age",
-      "author": "Emily Davis",
-      "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
-      "posted_date": "2024-09-05",
-      "reading_time": 7,
-      "hash_tags": ["#Cybersecurity", "#Privacy", "#Technology"]
-    },
-    {
-      "id": 6,
-      "cover_img": "https://marketplace.canva.com/EAFD7Hbfm3I/1/0/1600w/canva-brown-minimalist-helping-value-business-blog-banner-v4f4hVhTyQc.jpg",
-      "title": "Green Energy Innovations",
-      "author": "Michael Brown",
-      "author_img": "https://images.unsplash.com/photo-1511485977113-f34a3d0a31c2",
-      "posted_date": "2024-08-29",
-      "reading_time": 6,
-      "hash_tags": ["#GreenEnergy", "#Innovation", "#Sustainability"]
-    },
-    {
-      "id": 7,
-      "cover_img": "https://marketplace.canva.com/EAEcPz5qotw/3/0/1600w/canva-blog-banner-for-website-content-MqPNJu3HBz8.jpg",
-      "author": "Sarah Williams",
-      "author_img": "https://images.unsplash.com/photo-1541271696563-3be2f555fc4e",
-      "posted_date": "2024-08-18",
-      "reading_time": 15,
-      "hash_tags": ["#QuantumComputing", "#Tech", "#Future"]
-    },
-    {
-      "id": 8,
-      "cover_img": "https://www.schudio.com/wp-content/uploads/2024/08/school-website-blog-banner.png",
-      "title": "Smart Homes of Tomorrow",
-      "author": "David Clark",
-      "author_img": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
-      "posted_date": "2024-08-11",
-      "reading_time": 8,
-      "hash_tags": ["#SmartHomes", "#IoT", "#FutureTech"]
-    },
-    {
-      "id": 9,
-      "cover_img": "https://imgv3.fotor.com/images/blog-cover-image/12-Practice-for-Creating-the-Best-Facebook-Cover-Photo.jpg",
-      "title": "Artificial Intelligence in Healthcare",
-      "author": "Laura Martinez",
-      "author_img": "https://images.unsplash.com/photo-1517365830460-955ce3ccd263",
-      "posted_date": "2024-07-30",
-      "reading_time": 11,
-      "hash_tags": ["#AI", "#Healthcare", "#Innovation"]
-    },
-    {
-      "id": 10,
-      "cover_img": "https://prezibase.com/wp-content/uploads/2022/10/fashion-freelancer-blog-image-template-1024x512.jpg",
-      "title": "The Evolution of 5G Networks",
-      "author": "Daniel Garcia",
-      "author_img": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126",
-      "posted_date": "2024-07-15",
-      "reading_time": 9,
-      "hash_tags": ["#5G", "#Networks", "#Technology"]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "cover_img": "https://www.orangemantra.com/blog/wp-content/uploads/2024/01/Future-of-AI.png",
+    "title": "The Future of AI",
+    "author": "John Doe",
+    "author_img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+    "posted_date": "2024-10-01",
+    "reading_time": 8,
+    "hash_tags": ["#AI", "#Future", "#Tech"],
+    "description": "Artificial Intelligence (AI) is reshaping the future of technology and society in unprecedented ways. This blog delves deep into the origins of AI, tracing its evolution from early algorithms to modern machine learning and neural networks. The discussion covers significant breakthroughs that have paved the way for AI applications across industries such as healthcare, finance, education, and entertainment. AI's role in healthcare is particularly promising, with advancements in predictive diagnostics, personalized treatment, and robotic surgeries. In finance, AI is optimizing trading algorithms, fraud detection systems, and personalized banking experiences. Entertainment industries are utilizing AI to enhance content recommendations, improve virtual characters, and create immersive experiences. The blog also tackles the increasing influence of AI in autonomous vehicles, supply chain optimization, and even environmental sustainability, where it helps in monitoring ecosystems and predicting natural disasters. Ethical challenges, such as bias in AI algorithms, job displacement due to automation, and the need for transparent AI governance, are thoroughly explored. As AI systems grow more sophisticated, the question of whether they can surpass human intelligence looms large. The blog explores the idea of Artificial General Intelligence (AGI) and the philosophical implications it may have for the future of humanity. Looking forward, the blog emphasizes the importance of responsible AI development, inclusive policymaking, and public awareness to ensure that AI technologies are designed and deployed for the collective good."
+  },
+  {
+    "id": 2,
+    "cover_img": "https://images.stockcake.com/public/4/b/5/4b506841-2922-4c73-bc81-92295911294a_large/eco-friendly-urban-living-stockcake.jpg",
+    "title": "Sustainable Living in Modern Cities",
+    "author": "Jane Smith",
+    "author_img": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
+    "posted_date": "2024-09-22",
+    "reading_time": 10,
+    "hash_tags": ["#Sustainability", "#Cities", "#Environment"],
+    "description": "With urbanization on the rise, cities around the globe face unprecedented challenges related to sustainability and environmental impact. This blog delves into the concept of sustainable living within modern urban contexts, exploring innovative practices and solutions that can help cities thrive while minimizing their ecological footprints. It begins by outlining the current state of urbanization, highlighting statistics that underscore the rapid growth of metropolitan areas and the accompanying strain on resources. We examine various sustainable urban design principles, including green architecture, which incorporates eco-friendly materials and energy-efficient technologies. The blog also discusses the role of public transportation systems in reducing carbon emissions and promoting sustainable commuting practices, showcasing examples from cities that have successfully implemented these strategies. Furthermore, we explore community-driven initiatives that encourage local food production through urban gardens and vertical farms, emphasizing the importance of food security in urban environments. The narrative highlights successful case studies from around the world, illustrating how cities like Copenhagen and Singapore are leading the charge in sustainable urban development. The blog also addresses the challenges that cities face in their pursuit of sustainability, including funding, public engagement, and the need for political will. It concludes with a call to action, encouraging individuals, businesses, and policymakers to collaborate in creating resilient, sustainable cities that can adapt to the challenges of the future."
+  },
+  {
+    "id": 3,
+    "cover_img": "https://img.curiositystream.com/cHJvZHVjdGlvbi9zb3VyY2VzL3RpdGxlcy8zMDIxL2hvcml6b250YWxfaW1hZ2VfMTZfOS9lbi1VUy82NzdhOGZjNi1mZWJjLTQ1YzctYWU3OC0zYzRiMDBkNWM3YjcvbWVkaWFfaG9yaXpvbnRhbF9pbWFnZV8xNl85XzMwMjFfMzg0MHgyMTYwXzAwMDEuanBn.jpg",
+    "title": "Blockchain Revolution",
+    "author": "Alice Johnson",
+    "author_img": "https://images.unsplash.com/photo-1554151228-14d9def656e4",
+    "posted_date": "2024-09-15",
+    "reading_time": 12,
+    "hash_tags": ["#Blockchain", "#Crypto", "#Innovation"],
+    "description": "Blockchain technology is often associated with cryptocurrencies, but its potential goes far beyond that. This article delves into how blockchain is set to revolutionize industries such as finance, healthcare, and supply chain management through its decentralized and transparent framework."
+  },
+  {
+    "id": 4,
+    "cover_img": "https://media.licdn.com/dms/image/D4E12AQEghZgWBGypCg/article-cover_image-shrink_600_2000/0/1707689799821?e=2147483647&v=beta&t=gE1KHrl8JuMQPnrS_Fhs8ZDmxDK8qPVYXkI9kug1Zok",
+    "title": "Exploring the Metaverse",
+    "author": "Robert Lee",
+    "author_img": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe",
+    "posted_date": "2024-09-10",
+    "reading_time": 9,
+    "hash_tags": ["#Metaverse", "#VirtualReality", "#Tech"],
+    "description": "The metaverse is emerging as the next frontier of digital interaction, blending physical and virtual worlds. In this article, we explore what the metaverse is, its applications in entertainment, business, and education, and how it's poised to change how we interact online."
+  },
+  {
+    "id": 5,
+    "cover_img": "https://www.smart-academy.in/wp-content/uploads/2024/03/image2-1.jpg",
+    "title": "Cybersecurity in the Digital Age",
+    "author": "Emily Davis",
+    "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+    "posted_date": "2024-09-05",
+    "reading_time": 7,
+    "hash_tags": ["#Cybersecurity", "#Privacy", "#Technology"],
+    "description": "As our reliance on digital technologies grows, so do the threats to our personal and corporate security. This blog focuses on the latest trends in cybersecurity, how individuals and businesses can protect their data, and the potential future of cyber threats."
+  },
+  {
+    "id": 6,
+    "cover_img": "https://media.licdn.com/dms/image/D4D12AQE8de-6QoyoEw/article-cover_image-shrink_720_1280/0/1719393003325?e=2147483647&v=beta&t=V5Jzc41K_k3S2RXe_5QYf__fOKFtaP3NRb6Dy5tRpKs",
+    "title": "Green Energy Innovations",
+    "author": "Michael Brown",
+    "author_img": "https://images.unsplash.com/photo-1511485977113-f34a3d0a31c2",
+    "posted_date": "2024-08-29",
+    "reading_time": 6,
+    "hash_tags": ["#GreenEnergy", "#Innovation", "#Sustainability"],
+    "description": "With the urgent need to address climate change, green energy innovations are more important than ever. This blog explores the latest advancements in renewable energy technologies, from solar and wind power to newer innovations like hydrogen fuel cells."
+  },
+  {
+    "id": 7,
+    "cover_img": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1434/https://s3.cointelegraph.com/uploads/2023-06/bf6b03a8-43cf-4b27-8763-fb9a7a1d2808.jpg",
+    "title": "Quantum Computer and History",
+    "author": "Sarah Williams",
+    "author_img": "https://images.unsplash.com/photo-1541271696563-3be2f555fc4e",
+    "posted_date": "2024-08-18",
+    "reading_time": 15,
+    "hash_tags": ["#QuantumComputing", "#Tech", "#Future"],
+    "description": "Quantum computing represents a radical departure from classical computing, with the potential to solve problems currently deemed unsolvable. In this article, we trace the history of quantum computing, its current state, and its future impact on fields such as cryptography and materials science."
+  },
+  {
+    "id": 8,
+    "cover_img": "https://img.freepik.com/premium-photo/smart-homes-tomorrow-repeating-pattern_964851-160162.jpg",
+    "title": "Smart Homes of Tomorrow",
+    "author": "David Clark",
+    "author_img": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+    "posted_date": "2024-08-11",
+    "reading_time": 8,
+    "hash_tags": ["#SmartHomes", "#IoT", "#FutureTech"],
+    "description": "Smart homes are no longer a distant dream but a reality in modern households. This blog dives into the latest smart home innovations, how they are improving energy efficiency, security, and convenience, and what we can expect from the smart homes of the future."
+  },
+  {
+    "id": 9,
+    "cover_img": "https://artificialpaintings.com/wp-content/uploads/2024/06/455_the_role_of_AI_in_healthcare.webp",
+    "title": "Artificial Intelligence in Healthcare",
+    "author": "Laura Martinez",
+    "author_img": "https://images.unsplash.com/photo-1517365830460-955ce3ccd263",
+    "posted_date": "2024-07-30",
+    "reading_time": 11,
+    "hash_tags": ["#AI", "#Healthcare", "#Innovation"],
+    "description": "AI is rapidly changing healthcare by enabling more accurate diagnostics, personalized treatment plans, and improved patient care. This blog explores the various ways AI is being applied in healthcare, the challenges it presents, and what the future holds for AI in this critical industry."
+  },
+  {
+    "id": 10,
+    "cover_img": "https://www.tessolve.com/wp-content/uploads/2023/05/5G-technology-the-revolutionary-evolution-of-wireless.jpg",
+    "title": "The Evolution of 5G Networks",
+    "author": "Daniel Garcia",
+    "author_img": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126",
+    "posted_date": "2024-07-15",
+    "reading_time": 9,
+    "hash_tags": ["#5G", "#Networks", "#Technology"],
+    "description": "5G networks are set to revolutionize communication by offering faster speeds, lower latency, and more reliable connections. This blog covers the evolution of 5G technology, how it compares to its predecessors, and the many ways it's poised to transform industries and daily life."
+  }
+]
+
