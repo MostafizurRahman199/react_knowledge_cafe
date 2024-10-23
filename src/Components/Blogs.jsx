@@ -14,7 +14,7 @@ export default function Blogs() {
     fetchBlogsData();
   }, []);
 
-  return <div className="md:col-span-2 border-2 border-red-500">
+  return <div className="md:col-span-2 ">
 
     {
       blogs.map((blog)=><Blog key={blog.id} blog={blog}/>)

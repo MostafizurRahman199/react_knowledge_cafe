@@ -53,10 +53,10 @@ const isBookmarked = bookmarks.some(item => item.id === blog.id);
        </div>
 
        <div>
-        <p className='text-base'>{description}</p>
+        <p className='text-base text-justify'>{description}</p>
        </div>
        <div>
-        <button onClick={()=>handleReadingTime(reading_time, id)} className='btn'>Mark as Read</button>
+        <button onClick={()=>handleReadingTime(reading_time, id)} className='btn bg-violet-500 hover:bg-violet-700 text-white'>Mark as Read</button>
        </div>
        <div className="divider"></div>
     </div>
